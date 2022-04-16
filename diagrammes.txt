@@ -1,0 +1,6 @@
+Diagramme de use case				(X)
+Descritpions					(0)
+Diagramme de séquences systeme		(X)
+Diagramme de classe analyse			(X)
+Diagramme de classe conception		(X)
+Diagramme de séquences objet (7 couches)	(X)
