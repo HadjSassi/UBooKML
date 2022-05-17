@@ -1,0 +1,268 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {french}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introduction Générale}{7}{table.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Cadre de projet}{7}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Problématique}{8}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Solution Proposé}{8}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Objectifs de UBooK}{9}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Organisation du rapport}{9}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Infrastrucutre logicielle}{10}{Item.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {I}Etude Préable}{11}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1 }Domaine Métier}{11}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.i}Document Educatif}{11}{subsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Définitions d'un document}{11}{subsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Définitions d'un document educatif}{12}{subsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Types de document educatif}{12}{subsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Différent métadonnées des documents educatifs}{14}{figure.caption.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Les licences Creative Commons}{15}{figure.caption.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Le secteur de partage des documents}{15}{figure.caption.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.ii}Evenement Universitaire}{16}{subsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Définitions d'un evenement universitaire}{16}{subsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Types d'evenement universitaire}{16}{subsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Journée Universitaire}{16}{figure.caption.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Formation}{17}{figure.caption.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Compétition}{17}{figure.caption.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Certification}{18}{figure.caption.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Le secteur de publication des evenements}{18}{figure.caption.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2 }Etude de l'existant}{18}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.i}Analyse de marché}{18}{subsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{SlideShare}{18}{subsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Moodle}{19}{table.caption.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Google Classroom}{20}{table.caption.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Pages Facebook pour l'échange des Documents}{21}{table.caption.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{4C}{21}{table.caption.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{10times}{23}{table.caption.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.ii}Généralisation}{23}{subsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3 }Méthodologie de travail}{24}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {II}Spécification}{27}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1 }Modélisation}{27}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.i}Capture des besoins}{27}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.ii}Diagramme de Use Case}{27}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2 }Scénarios des cas d'utilisations}{27}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.i}Scénario d'Edition les métadonnées d'un document}{29}{subsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Téléverser un document}{29}{table.caption.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.ii}Scénario Télécharger un documnet}{31}{subsection.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.iii}Scénario d'inscription dans un evenement}{32}{subsection.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.iv}Scénario de gestion de ses evenements}{34}{subsection.2.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.v}Scénario Consulter un evenement}{37}{subsection.2.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3 }Diagramme de classe analyse}{38}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {III}Conception}{39}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1 }Diagramme de Package}{40}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2 }Diagramme de classe conception}{41}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.i}Relation UBooKer et Document}{41}{subsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.ii}Relation UBooKer et Evenement}{42}{subsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3 }Diagrammes de séquences objets}{43}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.i}Diagramme de séquence objet Rechercher un document}{43}{subsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.ii}Diagramme de séquence objet Téléverser un document}{44}{subsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.iii}Diagramme de séquence objet S'inscrire dans un evenement}{45}{subsection.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {IV}Realisation et déveleoppement}{46}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1 }Environnement de travail}{46}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.i}Les languages de programmations et les Framewroks}{46}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Framework Spring Boot}{46}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Framework Angular}{46}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Python}{46}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.ii}Les systémes gestions base de données}{47}{subsection.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{MySql}{47}{subsection.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Framework Firebase}{47}{subsection.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.iii}Outils Pour la modélisation, spécification et conception}{47}{subsection.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{StarUml}{47}{subsection.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Blasamiq}{47}{subsection.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.iv}Editeurs de textes}{47}{subsection.4.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Framework JetBrains}{47}{subsection.4.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Latex}{48}{subsection.4.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.v}Sytéme de contrôle}{48}{subsection.4.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Git et GitHub}{48}{subsection.4.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.vi}Systéme d'exploitation}{48}{subsection.4.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Linux Ubuntu}{48}{subsection.4.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2 }Résultat}{49}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Vers un modéle de véracité}{52}{figure.caption.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {V}Etat de l'art}{53}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1 }Big Data}{54}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.i}Véracité}{54}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Notion de véracité}{54}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Véracité Pour les Documents}{55}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Véracité Pour les evenements}{55}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2 }Intéligence Artificiel}{55}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Notion d'IA}{55}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Notion de ML}{56}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.i}Scrapping}{56}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Notion de Scrapping}{56}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Modéles de scrapping}{57}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.ii}Indexation}{58}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Notion D'indexation}{58}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Modéles D'indexation}{58}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.iii}ML \& Documents}{59}{subsection.5.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.iv}Scrapping \& Evenement}{59}{subsection.5.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3 }Travaux anicennes}{60}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Feuille de route}{60}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.i}Modéles de Recherche sur la véracité}{60}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Système d’aide à la décision pour la véracité des données dans le contexte de Big Data}{60}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Modèle probabiliste avec support mutuel des valeurs similaires}{60}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Découverte de la vérité par corroboration d’informations}{60}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Modèle de vérité latente}{61}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Découverte de la vérité par estimation de la vraisemblancemaximale}{61}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Découverte de la vérité avec dépendance de sources par copie}{61}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analyse de crédibilité latente}{62}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Découverte de la vérité dans plusieurs domaines de sources contradictoires ayant des vérités multiples}{62}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Découverte de la vérité avec partitionnement des attributs}{62}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Modèle probabiliste pour la découverte de la vérité avec des corrélations d’objets avec des contraintes}{62}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Vérification de faits par partitionnement de données}{62}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.ii}Modéles de Recherche sur la véracité pour les documents educatifs}{63}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Incorporation de phrases (SIF)}{63}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analyse syntaxique}{63}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Calcul de l'incorporation de phrases en fusionnant l'arbre d'analyse syntaxique et l'incorporation de mots}{63}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusion vers notre modéle}{64}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {VI}Modéle de UBooK pour la véracité des Documents}{65}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1 }Présentation du modéle}{65}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Data Set}{65}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Algortithme d'apprentissage}{66}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2 }Pseudo-Algorithmes}{67}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.i}Extraction des métadonnées d'un document}{67}{subsection.6.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.ii}Recherche de dicipline d'un document}{68}{subsection.6.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Extraction des text}{68}{subsection.6.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Netoyage de Text}{69}{lstnumber.-2.57}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Vérifier avec le modéle}{70}{lstnumber.-3.41}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.iii}Résultat final}{71}{subsection.6.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3 }Implémentation}{71}{section.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.i}Environnement de travail}{72}{subsection.6.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.ii}Collection des Données}{72}{subsection.6.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {VII}Modéle de UBooK pour la véracité des Evenements}{73}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1 }Présentation du modéle}{73}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Véracité de déroulement d'evenement}{73}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Véracité de inscriptions}{73}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2 }Pseudo-Algorithmes}{73}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3 }Implémentation}{74}{section.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {VIII}Résultat Et Discussion}{75}{chapter.8}%

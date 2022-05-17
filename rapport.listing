@@ -1,0 +1,15 @@
+\\ import librairies
+
+import outilDeGrattage
+import RequtesHttp
+
+\\ declare variables
+var webpage = "" \\ c'es le lien vers la page
+var src = "" \\ c'est le contenu HTML de la page
+var content = ""\\ c'est le resultat de grattage
+var events = [] \\ la liste des  evenement qu'on cherche
+
+webPage = RequestHttp.get('Le lien vers le site')
+src = webPage.text
+content = outilDeGrattage(src)
+events = content.find_all('<div class = "event">')

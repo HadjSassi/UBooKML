@@ -1,0 +1,70 @@
+\BOOKMARK [0][-]{table.caption.1}{Introduction G\351n\351rale}{}% 1
+\BOOKMARK [1][-]{section*.2}{Cadre de projet}{table.caption.1}% 2
+\BOOKMARK [1][-]{section*.2}{Probl\351matique}{table.caption.1}% 3
+\BOOKMARK [1][-]{section*.2}{Solution Propos\351}{table.caption.1}% 4
+\BOOKMARK [1][-]{section*.2}{Objectifs de UBooK}{table.caption.1}% 5
+\BOOKMARK [1][-]{section*.2}{Organisation du rapport}{table.caption.1}% 6
+\BOOKMARK [-1][-]{Item.7}{Infrastrucutre logicielle}{}% 7
+\BOOKMARK [0][-]{chapter.1}{Etude Pr\351able}{Item.7}% 8
+\BOOKMARK [1][-]{section.1.1}{Domaine M\351tier}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.1}{Document Educatif}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.2}{Evenement Universitaire}{section.1.1}% 11
+\BOOKMARK [1][-]{section.1.2}{Etude de l'existant}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.2.1}{Analyse de march\351}{section.1.2}% 13
+\BOOKMARK [2][-]{subsection.1.2.2}{G\351n\351ralisation}{section.1.2}% 14
+\BOOKMARK [1][-]{section.1.3}{M\351thodologie de travail}{chapter.1}% 15
+\BOOKMARK [0][-]{chapter.2}{Sp\351cification}{Item.7}% 16
+\BOOKMARK [1][-]{section.2.1}{Mod\351lisation}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.1.1}{Capture des besoins}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.2}{Diagramme de Use Case}{section.2.1}% 19
+\BOOKMARK [1][-]{section.2.2}{Sc\351narios des cas d'utilisations}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.1}{Sc\351nario d'Edition les m\351tadonn\351es d'un document}{section.2.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.2}{Sc\351nario T\351l\351charger un documnet}{section.2.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.3}{Sc\351nario d'inscription dans un evenement}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.4}{Sc\351nario de gestion de ses evenements}{section.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.5}{Sc\351nario Consulter un evenement}{section.2.2}% 25
+\BOOKMARK [1][-]{section.2.3}{Diagramme de classe analyse}{chapter.2}% 26
+\BOOKMARK [0][-]{chapter.3}{Conception}{Item.7}% 27
+\BOOKMARK [1][-]{section.3.1}{Diagramme de Package}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.2}{Diagramme de classe conception}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.2.1}{Relation UBooKer et Document}{section.3.2}% 30
+\BOOKMARK [2][-]{subsection.3.2.2}{Relation UBooKer et Evenement}{section.3.2}% 31
+\BOOKMARK [1][-]{section.3.3}{Diagrammes de s\351quences objets}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.1}{Diagramme de s\351quence objet Rechercher un document}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.2}{Diagramme de s\351quence objet T\351l\351verser un document}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.3}{Diagramme de s\351quence objet S'inscrire dans un evenement}{section.3.3}% 35
+\BOOKMARK [0][-]{chapter.4}{Realisation et d\351veleoppement}{Item.7}% 36
+\BOOKMARK [1][-]{section.4.1}{Environnement de travail}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.1.1}{Les languages de programmations et les Framewroks}{section.4.1}% 38
+\BOOKMARK [2][-]{subsection.4.1.2}{Les syst\351mes gestions base de donn\351es}{section.4.1}% 39
+\BOOKMARK [2][-]{subsection.4.1.3}{Outils Pour la mod\351lisation, sp\351cification et conception}{section.4.1}% 40
+\BOOKMARK [2][-]{subsection.4.1.4}{Editeurs de textes}{section.4.1}% 41
+\BOOKMARK [2][-]{subsection.4.1.5}{Syt\351me de contr\364le}{section.4.1}% 42
+\BOOKMARK [2][-]{subsection.4.1.6}{Syst\351me d'exploitation}{section.4.1}% 43
+\BOOKMARK [1][-]{section.4.2}{R\351sultat}{chapter.4}% 44
+\BOOKMARK [-1][-]{figure.caption.40}{Vers un mod\351le de v\351racit\351}{}% 45
+\BOOKMARK [0][-]{chapter.5}{Etat de l'art}{figure.caption.40}% 46
+\BOOKMARK [1][-]{section.5.1}{Big Data}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.1.1}{V\351racit\351}{section.5.1}% 48
+\BOOKMARK [1][-]{section.5.2}{Int\351ligence Artificiel}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.2.1}{Scrapping}{section.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.2.2}{Indexation}{section.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.2.3}{ML \046 Documents}{section.5.2}% 52
+\BOOKMARK [2][-]{subsection.5.2.4}{Scrapping \046 Evenement}{section.5.2}% 53
+\BOOKMARK [1][-]{section.5.3}{Travaux anicennes}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.3.1}{Mod\351les de Recherche sur la v\351racit\351}{section.5.3}% 55
+\BOOKMARK [2][-]{subsection.5.3.2}{Mod\351les de Recherche sur la v\351racit\351 pour les documents educatifs}{section.5.3}% 56
+\BOOKMARK [0][-]{chapter.6}{Mod\351le de UBooK pour la v\351racit\351 des Documents}{figure.caption.40}% 57
+\BOOKMARK [1][-]{section.6.1}{Pr\351sentation du mod\351le}{chapter.6}% 58
+\BOOKMARK [1][-]{section.6.2}{Pseudo-Algorithmes}{chapter.6}% 59
+\BOOKMARK [2][-]{subsection.6.2.1}{Extraction des m\351tadonn\351es d'un document}{section.6.2}% 60
+\BOOKMARK [2][-]{subsection.6.2.2}{Recherche de dicipline d'un document}{section.6.2}% 61
+\BOOKMARK [2][-]{subsection.6.2.3}{R\351sultat final}{section.6.2}% 62
+\BOOKMARK [1][-]{section.6.3}{Impl\351mentation}{chapter.6}% 63
+\BOOKMARK [2][-]{subsection.6.3.1}{Environnement de travail}{section.6.3}% 64
+\BOOKMARK [2][-]{subsection.6.3.2}{Collection des Donn\351es}{section.6.3}% 65
+\BOOKMARK [0][-]{chapter.7}{Mod\351le de UBooK pour la v\351racit\351 des Evenements}{figure.caption.40}% 66
+\BOOKMARK [1][-]{section.7.1}{Pr\351sentation du mod\351le}{chapter.7}% 67
+\BOOKMARK [1][-]{section.7.2}{Pseudo-Algorithmes}{chapter.7}% 68
+\BOOKMARK [1][-]{section.7.3}{Impl\351mentation}{chapter.7}% 69
+\BOOKMARK [0][-]{chapter.8}{R\351sultat Et Discussion}{figure.caption.40}% 70
